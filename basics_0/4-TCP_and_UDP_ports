@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-sudo netstat -an -p tcp
+netstat -an -p tcp
